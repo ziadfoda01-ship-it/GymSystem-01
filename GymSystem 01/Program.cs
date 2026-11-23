@@ -1,4 +1,4 @@
-namespace GymSystem_01
+namespace GymSystem
 {
     public class Program
     {
